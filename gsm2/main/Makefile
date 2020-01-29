@@ -41,6 +41,7 @@
 # New Variables for splitted makefile
 # Current folder is /gsm2/main/
 #==============================================================================
+# This is testing comment
 
 GSM2_VOB    = ..
 MAIN_VOB    = $(GSM2_VOB)\main
