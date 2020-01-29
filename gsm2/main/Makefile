@@ -42,6 +42,7 @@
 # Current folder is /gsm2/main/
 #==============================================================================
 # This is testing comment
+# This is anotther comment for diff
 
 GSM2_VOB    = ..
 MAIN_VOB    = $(GSM2_VOB)\main
