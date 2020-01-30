@@ -43,6 +43,7 @@
 #==============================================================================
 # This is testing comment
 # This is anotther comment for diff
+# test for branch dev_makefile
 
 GSM2_VOB    = ..
 MAIN_VOB    = $(GSM2_VOB)\main
